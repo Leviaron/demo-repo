@@ -1,0 +1,22 @@
+[
+   {
+      "age": 30,
+      "cars": [
+         {
+            "model": "BMW",
+            "type": "Z3"
+         },
+         {
+            "model": "Audi",
+            "type": "S8"
+         }
+      ],
+      "children": [
+         "Anna",
+         "Billy"
+      ],
+      "married": true,
+      "name": "Jakab",
+      "pets": null
+   }
+]
